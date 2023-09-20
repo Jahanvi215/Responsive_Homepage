@@ -1,6 +1,5 @@
 # Responsive_Homepage
 
-# Replica_Homepage
 
 Creating a replica of a website involves multiple steps and considerations, and it's important to clarify that replicating an existing website without permission might infringe on copyright and intellectual property rights.
 
