@@ -19,6 +19,9 @@ Creating a replica of a website involves multiple steps and considerations, and 
 • Remember that creating a replica for learning purposes is different from copying a website for commercial or unethical reasons. Always ensure that your actions align with legal and ethical standards.
 
 
+**Live Link**
+https://jahanvi215.github.io/Responsive_Homepage/
+
 
 
 
