@@ -1,8 +1,7 @@
 # Responsive_Homepage
 
 
-Creating a replica of a website involves multiple steps and considerations, and it's important to clarify that replicating an existing website without permission might infringe on copyright and intellectual property rights.
-
+To create a responsive homepage replica, use HTML and CSS to mimic the structure and style of the original site. Ensure responsiveness with media queries for various devices. Use a text editor, gather assets, and consider optional frameworks. Host on platforms like GitHub Pages. Respect copyright when replicating websites.
 
 • This approach follows ethical guidelines by respecting copyright and intellectual property rights.
 
